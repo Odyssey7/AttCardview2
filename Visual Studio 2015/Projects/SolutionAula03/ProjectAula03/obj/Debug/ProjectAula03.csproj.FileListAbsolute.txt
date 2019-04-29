@@ -1,0 +1,9 @@
+c:\users\gustavo.sferreira3\documents\visual studio 2015\Projects\SolutionAula03\ProjectAula03\bin\Debug\ProjectAula03.exe.config
+c:\users\gustavo.sferreira3\documents\visual studio 2015\Projects\SolutionAula03\ProjectAula03\bin\Debug\ProjectAula03.exe
+c:\users\gustavo.sferreira3\documents\visual studio 2015\Projects\SolutionAula03\ProjectAula03\bin\Debug\ProjectAula03.pdb
+c:\users\gustavo.sferreira3\documents\visual studio 2015\Projects\SolutionAula03\ProjectAula03\obj\Debug\ProjectAula03.csprojResolveAssemblyReference.cache
+c:\users\gustavo.sferreira3\documents\visual studio 2015\Projects\SolutionAula03\ProjectAula03\obj\Debug\ProjectAula03.frmPrincipal.resources
+c:\users\gustavo.sferreira3\documents\visual studio 2015\Projects\SolutionAula03\ProjectAula03\obj\Debug\ProjectAula03.Properties.Resources.resources
+c:\users\gustavo.sferreira3\documents\visual studio 2015\Projects\SolutionAula03\ProjectAula03\obj\Debug\ProjectAula03.csproj.GenerateResource.Cache
+c:\users\gustavo.sferreira3\documents\visual studio 2015\Projects\SolutionAula03\ProjectAula03\obj\Debug\ProjectAula03.exe
+c:\users\gustavo.sferreira3\documents\visual studio 2015\Projects\SolutionAula03\ProjectAula03\obj\Debug\ProjectAula03.pdb

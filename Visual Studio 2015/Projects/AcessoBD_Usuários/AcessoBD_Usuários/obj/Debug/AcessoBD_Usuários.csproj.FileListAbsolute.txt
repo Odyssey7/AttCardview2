@@ -1,0 +1,15 @@
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoBD_Usuários\AcessoBD_Usuários\bin\Debug\AcessoBD_Usuários.exe.config
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoBD_Usuários\AcessoBD_Usuários\obj\Debug\AcessoBD_Usuários.csprojResolveAssemblyReference.cache
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoBD_Usuários\AcessoBD_Usuários\obj\Debug\AcessoBD_Usuários.Properties.Resources.resources
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoBD_Usuários\AcessoBD_Usuários\obj\Debug\AcessoBD_Usuários.csproj.GenerateResource.Cache
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoBD_Usuários\AcessoBD_Usuários\bin\Debug\AcessoBD_Usuários.exe
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoBD_Usuários\AcessoBD_Usuários\bin\Debug\AcessoBD_Usuários.pdb
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoBD_Usuários\AcessoBD_Usuários\bin\Debug\MySql.Data.dll
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoBD_Usuários\AcessoBD_Usuários\bin\Debug\Google.Protobuf.dll
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoBD_Usuários\AcessoBD_Usuários\bin\Debug\MySql.Data.xml
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoBD_Usuários\AcessoBD_Usuários\obj\Debug\AcessoBD_Usuários.frmCadatro.resources
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoBD_Usuários\AcessoBD_Usuários\obj\Debug\AcessoBD_Usuários.frmLogin.resources
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoBD_Usuários\AcessoBD_Usuários\obj\Debug\AcessoBD_Usuários.exe
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoBD_Usuários\AcessoBD_Usuários\obj\Debug\AcessoBD_Usuários.pdb
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoBD_Usuários\AcessoBD_Usuários\obj\Debug\AcessoBD_Usuários.Form1.resources
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoBD_Usuários\AcessoBD_Usuários\obj\Debug\AcessoBD_Usuários.frmCadastroUsuários.resources

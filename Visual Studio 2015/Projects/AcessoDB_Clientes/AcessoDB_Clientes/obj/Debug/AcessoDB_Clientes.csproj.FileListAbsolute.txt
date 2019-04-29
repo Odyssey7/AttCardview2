@@ -1,0 +1,13 @@
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoDB_Clientes\AcessoDB_Clientes\bin\Debug\AcessoDB_Clientes.exe.config
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoDB_Clientes\AcessoDB_Clientes\obj\Debug\AcessoDB_Clientes.csprojResolveAssemblyReference.cache
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoDB_Clientes\AcessoDB_Clientes\obj\Debug\AcessoDB_Clientes.Properties.Resources.resources
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoDB_Clientes\AcessoDB_Clientes\obj\Debug\AcessoDB_Clientes.csproj.GenerateResource.Cache
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoDB_Clientes\AcessoDB_Clientes\obj\Debug\AcessoDB_Clientes.frmPessoa.resources
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoDB_Clientes\AcessoDB_Clientes\obj\Debug\AcessoDB_Clientes.frmPesquisaAv.resources
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoDB_Clientes\AcessoDB_Clientes\bin\Debug\AcessoDB_Clientes.exe
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoDB_Clientes\AcessoDB_Clientes\bin\Debug\AcessoDB_Clientes.pdb
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoDB_Clientes\AcessoDB_Clientes\bin\Debug\MySql.Data.dll
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoDB_Clientes\AcessoDB_Clientes\bin\Debug\Google.Protobuf.dll
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoDB_Clientes\AcessoDB_Clientes\bin\Debug\MySql.Data.xml
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoDB_Clientes\AcessoDB_Clientes\obj\Debug\AcessoDB_Clientes.exe
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\AcessoDB_Clientes\AcessoDB_Clientes\obj\Debug\AcessoDB_Clientes.pdb

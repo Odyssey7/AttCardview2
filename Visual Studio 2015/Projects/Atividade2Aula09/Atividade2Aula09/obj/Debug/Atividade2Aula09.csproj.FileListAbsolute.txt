@@ -1,0 +1,9 @@
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\Atividade2Aula09\Atividade2Aula09\bin\Debug\Atividade2Aula09.exe.config
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\Atividade2Aula09\Atividade2Aula09\bin\Debug\Atividade2Aula09.exe
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\Atividade2Aula09\Atividade2Aula09\bin\Debug\Atividade2Aula09.pdb
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\Atividade2Aula09\Atividade2Aula09\obj\Debug\Atividade2Aula09.csprojResolveAssemblyReference.cache
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\Atividade2Aula09\Atividade2Aula09\obj\Debug\Atividade2Aula09.frmNota10.resources
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\Atividade2Aula09\Atividade2Aula09\obj\Debug\Atividade2Aula09.Properties.Resources.resources
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\Atividade2Aula09\Atividade2Aula09\obj\Debug\Atividade2Aula09.csproj.GenerateResource.Cache
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\Atividade2Aula09\Atividade2Aula09\obj\Debug\Atividade2Aula09.exe
+C:\Users\gustavo.sferreira3\Documents\Visual Studio 2015\Projects\Atividade2Aula09\Atividade2Aula09\obj\Debug\Atividade2Aula09.pdb
